@@ -22,7 +22,7 @@
         },
         "attrs": {
             "hashes": [],
-            "version": "==22.2.0"
+            "version": "==23.1.0"
         },
         "boto3": {
             "hashes": [],
@@ -159,7 +159,7 @@
     "develop": {
         "attrs": {
             "hashes": [],
-            "version": "==22.2.0"
+            "version": "==23.1.0"
         },
         "certifi": {
             "hashes": [],
