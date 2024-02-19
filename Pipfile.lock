@@ -73,7 +73,7 @@
         },
         "gunicorn": {
             "hashes": [],
-            "version": "==20.1.0"
+            "version": "==21.2.0"
         },
         "iniconfig": {
             "hashes": [],
