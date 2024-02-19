@@ -34,7 +34,7 @@
         },
         "certifi": {
             "hashes": [],
-            "version": "==2022.12.7"
+            "version": "==2024.2.2"
         },
         "collectfast": {
             "hashes": [
@@ -163,7 +163,7 @@
         },
         "certifi": {
             "hashes": [],
-            "version": "==2022.12.7"
+            "version": "==2024.2.2"
         },
         "chardet": {
             "hashes": [],
